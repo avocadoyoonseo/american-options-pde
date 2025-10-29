@@ -1,0 +1,6 @@
+Method,Grid Size,Value,Error (bps),Convergence Rate
+Am-Fixed,50,6.70085,61.7035,
+Am-Fixed,100,6.693,49.9092,
+Am-Fixed,200,6.69194,48.3268,0.176265
+Am-Fixed,400,6.69208,48.5331,0.0201687
+Am-Fixed,800,6.69225,48.7849,-0.00680583
